@@ -3,7 +3,7 @@
 
 This program creates a fictitious molecule name based on an entered sequence of letters, intended to be an initialism or acronym.
 
-```shell
+```
 Input upper case molecular acronym: DMF
 D M F
 D word is: di
