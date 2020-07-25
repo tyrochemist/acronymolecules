@@ -1,6 +1,9 @@
 # acronymolecules
 > Create fun molecules by entering any acronym or initialism
 
+**Try this program on binder! Click the button and then open the "test_notebook.ipynb" and click "Run"**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tyrochymicus/acronymolecules/master)
+
 This program creates a fictitious molecule name based on an entered sequence of letters, intended to be an initialism or acronym.
 
 ```
