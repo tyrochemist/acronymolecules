@@ -1,8 +1,8 @@
 # acronymolecules
 
-Try this program on binder! Click the button and then open the "test_notebook.ipynb" and click "Run"
+Try this program on binder!
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tyrochymicus/acronymolecules/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tyrochymicus/acronymolecules/master?filepath=https%3A%2F%2Fgithub.com%2Ftyrochymicus%2Facronymolecules%2Ftest_notebook.ipynb)
 
 ### Create fun molecules by entering any acronym or initialism
 
