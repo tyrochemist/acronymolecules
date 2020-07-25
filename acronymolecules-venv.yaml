@@ -1,0 +1,33 @@
+name: acronymolecules-venv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - astroid=2.4.2=py38h32f6830_0
+  - autopep8=1.5.3=pyh9f0ad1d_0
+  - ca-certificates=2020.6.20=hecda079_0
+  - certifi=2020.6.20=py38h32f6830_0
+  - isort=4.3.21=py38h32f6830_1
+  - lazy-object-proxy=1.4.3=py38h64e0658_2
+  - libcxx=10.0.1=h5f48129_0
+  - libffi=3.2.1=h4a8c4bd_1007
+  - mccabe=0.6.1=py_1
+  - ncurses=6.2=hb1e8313_1
+  - openssl=1.1.1g=h0b31af3_0
+  - pip=20.1.1=py_1
+  - pycodestyle=2.6.0=pyh9f0ad1d_0
+  - pylint=2.5.3=py38h32f6830_0
+  - python=3.8.5=h85f3143_1_cpython
+  - python_abi=3.8=1_cp38
+  - readline=8.0=h0678c8f_2
+  - setuptools=49.2.0=py38h32f6830_0
+  - six=1.15.0=pyh9f0ad1d_0
+  - sqlite=3.32.3=h93121df_1
+  - tk=8.6.10=hbbe82c9_0
+  - toml=0.10.1=pyh9f0ad1d_0
+  - wheel=0.34.2=py_1
+  - wrapt=1.11.2=py38h64e0658_0
+  - xz=5.2.5=h0b31af3_1
+  - zlib=1.2.11=h0b31af3_1006
+prefix: /usr/local/anaconda3/envs/acronymolecules-venv
+
