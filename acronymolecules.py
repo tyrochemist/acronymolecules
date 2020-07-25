@@ -68,7 +68,7 @@ def create_acronym():
     fullword = ''
 
     for i in acronym_letters:
-        word_1 = random.choice(letter_dict[i])
+        word_1 = random.choice(letter_dict[i.upper()])
         print(i+' word is: ' + word_1)
         fullword += word_1
 
