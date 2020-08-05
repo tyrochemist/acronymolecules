@@ -2,7 +2,7 @@
 
 Try this program on binder!
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tyrochymicus/acronymolecules/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tyrochymicus/acronymolecules/master?filepath=https%3A%2F%2Fgithub.com%2Ftyrochymicus%2Facronymolecules%2Fblob%2Fmaster%2Facronymolcules.ipynb)
 
 ### Create fun molecules by entering any acronym or initialism
 
