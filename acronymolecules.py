@@ -69,7 +69,7 @@ def create_acronym():
 
     for i in acronym_letters:
         word_1 = random.choice(letter_dict[i.upper()])
-        print(i+' word is: ' + word_1)
+        print(i + ' word is: ' + word_1)
         fullword += word_1
 
-    print("Your acronym stands for: "+fullword)
+    print("Your acronym stands for: " + fullword)

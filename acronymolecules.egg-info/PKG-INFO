@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: acronymolecules
+Version: 0.1.0
+Summary: Makes an acronym into a molecular name
+Home-page: UNKNOWN
+Author: tyrochymicus
+Author-email: tyler.roche@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8,<4.0

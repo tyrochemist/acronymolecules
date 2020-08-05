@@ -1,0 +1,7 @@
+README.md
+acronymolecules.py
+setup.py
+acronymolecules.egg-info/PKG-INFO
+acronymolecules.egg-info/SOURCES.txt
+acronymolecules.egg-info/dependency_links.txt
+acronymolecules.egg-info/top_level.txt
